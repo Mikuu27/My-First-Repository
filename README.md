@@ -6,8 +6,10 @@ I'm interested in coding because coding is very useful for our daily lifes and t
 ## My Study Result
 This is the link [google.com](https://google.com) to open google.
 ###### This is a cat image
-![This is a cat image!](https://cdn.discordapp.com/attachments/931772100887318530/959686563183353866/9k.png)
+![This is a cat image!](https://cdn.discordapp.com/attachments/959689950792654868/959689965544017940/9k.png)
 ## My Study Result 2
 - [x] Test 1
 - [] Test 2
 - [] Test 3
+## Conclusion
+Simply This is what i learned from Session 1!
