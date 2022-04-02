@@ -10,4 +10,4 @@ This is the link [google.com](https://google.com) to open google.
 ## My Study Result 2
 - [] Test 1
 - [] Test 2
-- [x] Test 3
+- [] Test 3
