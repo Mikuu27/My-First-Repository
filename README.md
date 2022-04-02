@@ -8,6 +8,6 @@ This is the link [google.com](https://google.com) to open google.
 ###### This is a cat image
 ![This is a cat image!](https://cdn.discordapp.com/attachments/931772100887318530/959686563183353866/9k.png)
 ## My Study Result 2
-- [] Test 1
+- [x] Test 1
 - [] Test 2
 - [] Test 3
